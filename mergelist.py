@@ -1,4 +1,4 @@
-from linkedlist import Node, LinkedList
+from singlylinkedlist import Node, LinkedList
 
 
 def merged_lists(first_list, second_list, merged_list):
